@@ -16,7 +16,7 @@ Hi, I'm Abhishek Kumar Shukla, a Full Stack Developer 🚀 from India, currently
 <br/>
 <br/>
 
-  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+  <img align="right" height="400" width="480" alt="GIF" src="https://i.gifer.com/7SCA.gif" />
 
 **Talking about Personal Stuffs:**
 
