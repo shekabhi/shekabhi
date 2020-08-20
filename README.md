@@ -16,7 +16,7 @@ Hi, I'm Abhishek Kumar Shukla, a Full Stack Developer 🚀 from India, currently
 <br/>
 <br/>
 
-  <img align="right" height="400px" width="550px" alt="GIF" src="https://i-ps.co.uk/wp-content/uploads/2018/04/gameblog2.gif" />
+  <img align="right" height="350px" width="450px" alt="GIF" src="https://i-ps.co.uk/wp-content/uploads/2018/04/gameblog2.gif" />
 
 **Talking about Personal Stuffs:**
 
