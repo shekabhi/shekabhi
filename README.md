@@ -21,7 +21,7 @@ Hi, I'm Abhishek Kumar Shukla, a Full Stack Developer 🚀 from India, currently
 **Talking about Personal Stuffs:**
 
 - 🛠 with Spring Boot, Spring Security, React, Redux, Flutter, Adobe XD ; 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on CP;
 - 👨🏻‍💻 I’m looking to collaborate on kick ass products;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
